@@ -1,5 +1,5 @@
 # Cyberpunk Theme for GRUB Bootloader
-A GRUB Bootloader Theme Inspired from Cyberpunk 2077 Video Game.
+A GRUB Bootloader Theme Inspired by Cyberpunk 2077 Video Game.
 
 ![Preview](Screenshots/screenshot.png)
 
