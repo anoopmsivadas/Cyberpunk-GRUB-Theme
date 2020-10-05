@@ -5,6 +5,10 @@ A GRUB Bootloader Theme Inspired by Cyberpunk 2077 Video Game.
 
 ## Install
 
+Download from [GNOME-LOOK.ORG](https://www.gnome-look.org/p/1429443/)
+
+Extract and Run with
+
 ```shell
 sudo ./install.sh
 ```
