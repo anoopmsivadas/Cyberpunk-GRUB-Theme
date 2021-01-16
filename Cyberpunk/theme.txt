@@ -18,7 +18,7 @@ terminal-border: "0"
   left = 30%
   top = 28%
   width = 45%
-  height = 60%
+  height = 50%
   item_font = "Blender Pro Regular 16"
   item_color = "#ffff00"
   selected_item_color = "#000000"
@@ -29,6 +29,10 @@ terminal-border: "0"
   item_padding = 5
   item_spacing = 10
   selected_item_pixmap_style = "select_*.png"
+  scrollbar = true
+  scrollbar_width = 24
+  scrollbar_thumb = "sb_thumb_*.png"
+  scrollbar_frame = "sb_frame_*.png"
 }
 
 + progress_bar {
@@ -45,3 +49,15 @@ terminal-border: "0"
   bar_style = "progress_bar_*.png"
   highlight_style = "progress_highlight_*.png"
 }
+
++ label {
+	top = 100%-25
+	left = 0
+	width = 100%
+	height = 20
+	text = "@KEYMAP_MIDDLE@"
+	align = "center"
+	font = "Blender Pro Regular 12"
+	color = "#FFFF00"
+}
+
